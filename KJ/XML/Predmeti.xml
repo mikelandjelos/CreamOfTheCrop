@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Predmet>
+		<Strategija>A</Strategija>
+		<Naziv>OOProj</Naziv>
+		<UsmeniMinPct>50</UsmeniMinPct>
+		<UsmeniMaxPoena>40</UsmeniMaxPoena>
+		<Elementi>
+			<Item>
+				<Name>Pismeni</Name>
+				<Min>20</Min>
+				<Max>40</Max>
+			</Item>
+			<Item>
+				<Name>Lab</Name>
+				<Max>20</Max>
+			</Item>
+		</Elementi>
+	</Predmet>
+	<Predmet>
+		<Strategija>A</Strategija>
+		<Naziv>Geodezija</Naziv>
+		<UsmeniMinPct>50</UsmeniMinPct>
+		<UsmeniMaxPoena>40</UsmeniMaxPoena>
+		<Elementi>
+			<Item>
+				<Name>Projekat A</Name>
+				<Min>6</Min>
+				<Max>10</Max>
+			</Item>
+			<Item>
+				<Name>Projekat B</Name>
+				<Min>8</Min>
+				<Max>10</Max>
+			</Item>
+			<Item>
+				<Name>Lab</Name>
+				<Min>8</Min>
+				<Max>20</Max>
+			</Item>
+			<Item>
+				<Name>Terenski zadatak</Name>
+				<Min>8</Min>
+				<Max>20</Max>
+			</Item>
+		</Elementi>
+	</Predmet>
+	<Predmet>
+		<Strategija>A</Strategija>
+		<Naziv>Istorija starog veka</Naziv>
+		<UsmeniMinPct>60</UsmeniMinPct>
+		<UsmeniMaxPoena>80</UsmeniMaxPoena>
+		<Elementi>
+			<Item>
+				<Name>Istrazivanje</Name>
+				<Min>7</Min>
+				<Max>20</Max>
+			</Item>
+		</Elementi>
+	</Predmet>
+	<Predmet>
+		<Strategija>B</Strategija>
+		<Naziv>Farmakologija</Naziv>
+		<UsmeniMinPct>80</UsmeniMinPct>
+		<UsmeniMaxPoena>20</UsmeniMaxPoena>
+		<Elementi>
+			<Item>
+				<Name>Test A</Name>
+				<Min>15</Min>
+				<Max>25</Max>
+			</Item>
+			<Item>
+				<Name>Test B</Name>
+				<Min>15</Min>
+				<Max>25</Max>
+			</Item>
+			<Item>
+				<Name>Lab 1</Name>
+				<Min>0</Min>
+				<Max>10</Max>
+			</Item>
+			<Item>
+				<Name>Lab 2</Name>
+				<Min>2</Min>
+				<Max>10</Max>
+			</Item>
+			<Item>
+				<Name>Lab 3</Name>
+				<Min>5</Min>
+				<Max>10</Max>
+			</Item>
+		</Elementi>
+	</Predmet>
+	<Predmet>
+		<Strategija>B</Strategija>
+		<Naziv>MMS</Naziv>
+		<UsmeniMinPct>50</UsmeniMinPct>
+		<UsmeniMaxPoena>40</UsmeniMaxPoena>
+		<Elementi>
+			<Item>
+				<Name>SW projekat</Name>
+				<Min>0</Min>
+				<Max>30</Max>
+			</Item>
+			<Item>
+				<Name>MM projekat</Name>
+				<Min>15</Min>
+				<Max>30</Max>
+			</Item>
+		</Elementi>
+	</Predmet>
+	<Predmet>
+		<Strategija>B</Strategija>
+		<Naziv>Rimsko pravo</Naziv>
+		<UsmeniMinPct>55</UsmeniMinPct>
+		<UsmeniMaxPoena>100</UsmeniMaxPoena>
+		<Elementi>
+		</Elementi>
+	</Predmet>
+</root>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Strategija>
+		<Naziv>C</Naziv>
+		<Ocene>
+			<Item>
+				<Name>6</Name>
+				<Min>41</Min>
+				<Max>50</Max>
+			</Item>
+			<Item>
+				<Name>7</Name>
+				<Min>51</Min>
+				<Max>60</Max>
+			</Item>
+			<Item>
+				<Name>8</Name>
+				<Min>61</Min>
+				<Max>84</Max>
+			</Item>
+			<Item>
+				<Name>9</Name>
+				<Min>85</Min>
+				<Max>94</Max>
+			</Item>
+			<Item>
+				<Name>10</Name>
+				<Min>95</Min>
+				<Max>100</Max>
+			</Item>
+		</Ocene>
+	</Strategija>
+</root>
