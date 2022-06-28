@@ -1,0 +1,30 @@
+﻿<Strategija>
+  <Naziv>C</Naziv>
+  <Ocene>
+    <Item>
+      <Name>6</Name>
+      <Min>30</Min>
+      <Max>48</Max>
+    </Item>
+    <Item>
+      <Name>7</Name>
+      <Min>49</Min>
+      <Max>65</Max>
+    </Item>
+    <Item>
+      <Name>8</Name>
+      <Min>66</Min>
+      <Max>82</Max>
+    </Item>
+    <Item>
+      <Name>9</Name>
+      <Min>83</Min>
+      <Max>95</Max>
+    </Item>
+    <Item>
+      <Name>10</Name>
+      <Min>96</Min>
+      <Max>100</Max>
+    </Item>    
+  </Ocene>
+</Strategija>

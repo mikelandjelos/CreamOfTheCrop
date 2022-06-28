@@ -1,0 +1,54 @@
+[
+	{
+		"Strategija": "A",
+		"Naziv": "OOP",
+		"UsmeniMinimumProcenataZaProlaz": 50,
+		"UsmeniMaxPoena": 40,
+		"Elementi": [
+			{
+				"Naziv": "Pismeni",
+				"MaxPoena": 40,
+				"MinimumZaProlaz": 50,
+				"TipVrednostiMinimumaZaProlaz": "Pct"
+			},
+			{
+				"Naziv": "Lab",
+				"MaxPoena": 20
+			}
+		]
+	},
+	{
+		"Strategija": "A",
+		"Naziv": "Test predmet",
+		"UsmeniMinimumProcenataZaProlaz": 50,
+		"UsmeniMaxPoena": 40,
+		"Elementi": [
+			{
+				"Naziv": "Pismeni",
+				"MaxPoena": 40,
+				"MinimumZaProlaz": 2,
+				"TipVrednostiMinimumaZaProlaz": "Pts"
+			},
+			{
+				"Naziv": "Lab",
+				"MaxPoena": 20
+			}
+		]
+	},
+	{
+		"Strategija": "C",
+		"Naziv": "Test Predmet Strategija C",
+		"UsmeniMinimumProcenataZaProlaz": 50,
+		"UsmeniMaxPoena": 40,
+		"Elementi": [
+			{
+				"Naziv": "Pismeni",
+				"MaxPoena": 40
+			},
+			{
+				"Naziv": "Lab",
+				"MaxPoena": 20
+			}
+		]
+	}
+]

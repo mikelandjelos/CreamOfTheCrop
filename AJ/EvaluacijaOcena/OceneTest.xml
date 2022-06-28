@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Student>
+  <Indeks>1234</Indeks>
+  <Predmet>OOP Projektovanje</Predmet>
+  <Usmeni>31</Usmeni>
+  <Elementi>
+    <Item>
+      <Name>Pismeni</Name>
+      <Value>26</Value>
+    </Item>
+    <Item>
+      <Name>Lab</Name>
+      <Value>16</Value>
+    </Item>
+  </Elementi>
+</Student>
+<Student>
+  <Indeks>2345</Indeks>
+  <Predmet>Geodezija</Predmet>
+  <Elementi>
+    <Item>
+      <Name>Projekat a </Name>
+      <Value>7</Value>
+    </Item>
+    <Item>
+      <Name>Projekat b</Name>
+      <Value>8</Value>
+    </Item>
+    <Item>
+      <Name>Lab</Name>
+      <Value>11</Value>
+    </Item>
+    <Item>
+      <Name>Terenski zadatak</Name>
+      <Value>17</Value>
+    </Item>
+  </Elementi>
+</Student>
+<Student>
+  <Indeks>34567</Indeks>
+  <Predmet>Istorija starog veka</Predmet>
+  <Usmeni>77</Usmeni>
+  <Elementi>
+    <Item>
+      <Name>Istraživanje</Name>
+      <Value>11</Value>
+    </Item>
+  </Elementi>
+</Student>
+<Student>
+  <Indeks>45678</Indeks>
+  <Predmet>Farmakologija</Predmet>
+  <Usmeni>20</Usmeni>
+  <Elementi>
+    <Item>
+      <Name>Test A</Name>
+      <Value>11</Value>
+    </Item>
+    <Item>
+      <Name>Lab 1</Name>
+      <Value>0</Value>
+    </Item>
+    <Item>
+      <Name>Lab 2</Name>
+      <Value>4</Value>
+    </Item>
+    <Item>
+      <Name>Lab 3</Name>
+      <Value>7</Value>
+    </Item>
+  </Elementi>
+</Student>
+<Student>
+  <Indeks>56789</Indeks>
+  <Predmet>MMS</Predmet>
+  <Usmeni>40</Usmeni>
+  <Elementi>
+    <Item>
+      <Name>SW projekat</Name>
+      <Value>30</Value>
+    </Item>
+    <Item>
+      <Name>MM projekat</Name>
+      <Value>30</Value>
+    </Item>
+  </Elementi>
+</Student>
+<Student>
+  <Indeks>6789</Indeks>
+  <Predmet>Rimsko pravo</Predmet>
+  <Usmeni>99</Usmeni>
+</Student>

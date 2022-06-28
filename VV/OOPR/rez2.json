@@ -1,0 +1,17 @@
+[
+  {
+    "Indeks": 12312,
+    "Predmet": "Test Predmet Strategija C",
+    "Usmeni": 40,
+    "Elementi": [
+      {
+        "Naziv": "Pismeni",
+        "Poeni": 40
+      },
+      {
+        "Naziv": "Lab",
+        "Poeni": 11
+      }
+    ]
+  }
+]

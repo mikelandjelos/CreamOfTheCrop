@@ -1,0 +1,31 @@
+[
+  {
+    "Naziv": "C",
+    "Ocene": [
+      {
+        "Ocena": 5,
+        "MinimalniProcenat": 40
+      },
+      {
+        "Ocena": 6,
+        "MinimalniProcenat": 50
+      },
+      {
+        "Ocena": 7,
+        "MinimalniProcenat": 60
+      },
+      {
+        "Ocena": 8,
+        "MinimalniProcenat": 70
+      },
+      {
+        "Ocena": 9,
+        "MinimalniProcenat": 80
+      },
+      {
+        "Ocena": 10,
+        "MinimalniProcenat": 90
+      }
+    ]
+  }
+]

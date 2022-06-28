@@ -1,0 +1,64 @@
+<Root>
+<List>
+<Strategija>
+  <Naziv>A</Naziv>
+  <Ocene>
+    <Item>
+      <Name>6</Name>
+      <Min>55</Min>
+      <Max>64</Max>
+    </Item>
+    <Item>
+      <Name>7</Name>
+      <Min>65</Min>
+      <Max>74</Max>
+    </Item>
+    <Item>
+      <Name>8</Name>
+      <Min>75</Min>
+      <Max>84</Max>
+    </Item>
+    <Item>
+      <Name>9</Name>
+      <Min>85</Min>
+      <Max>94</Max>
+    </Item>
+    <Item>
+      <Name>10</Name>
+      <Min>95</Min>
+      <Max>100</Max>
+    </Item>    
+  </Ocene>
+</Strategija>
+<Strategija>
+  <Naziv>B</Naziv>
+  <Ocene>
+    <Item>
+      <Name>6</Name>
+      <Min>50</Min>
+      <Max>64</Max>
+    </Item>
+    <Item>
+      <Name>7</Name>
+      <Min>65</Min>
+      <Max>89</Max>
+    </Item>
+    <Item>
+      <Name>8</Name>
+      <Min>90</Min>
+      <Max>97</Max>
+    </Item>
+    <Item>
+      <Name>9</Name>
+      <Min>90</Min>
+      <Max>97</Max>
+    </Item>
+    <Item>
+      <Name>10</Name>
+      <Min>98</Min>
+      <Max>100</Max>
+    </Item>    
+  </Ocene>
+</Strategija>
+</List>
+</Root>

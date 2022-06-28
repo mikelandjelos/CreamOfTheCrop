@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="EvaluacijaOcena.ListaPredmeta">
+    <Position X="5" Y="0.5" Width="4.25" />
+    <AssociationLine Name="this[System.String]" Type="EvaluacijaOcena.ItemPredmet" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="2.44" />
+        <Point X="8.25" Y="8.75" />
+        <Point X="7" Y="8.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAASAAAAAQAAAAAAAAAEAAAAAAACAA=</HashCode>
+      <FileName>ListaPredmeta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Predmeti" />
+      <Property Name="this[System.String]" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacijaOcena.ListaStrategija">
+    <Position X="0.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAASAAAAAAAAAAAAAIAAAAAAAAACAA=</HashCode>
+      <FileName>ListaStrategija.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Strategije" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacijaOcena.ListaStudenata">
+    <Position X="10" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAACAA=</HashCode>
+      <FileName>ListaStudenata.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Studenti" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EvaluacijaOcena.Predmet">
+    <Position X="5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BAAAABEAAACAAAAAiAAAAAAAAAAAJIAAAEAAAAAAAAA=</HashCode>
+      <FileName>ListaPredmeta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Elementi" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EvaluacijaOcena.Strategija">
+    <Position X="1" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAiAAAAAAAAAAABIAAAAAIAAAAAAA=</HashCode>
+      <FileName>ListaStrategija.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Ocene" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EvaluacijaOcena.Student">
+    <Position X="11" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAgAACAAAAAAACAIAAAAAAEAAAAAAAgA=</HashCode>
+      <FileName>ListaStudenata.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Elementi" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="EvaluacijaOcena.ItemPredmet">
+    <Position X="5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAABAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaPredmeta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvaluacijaOcena.ItemStrategija">
+    <Position X="1" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ListaStrategija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvaluacijaOcena.ItemStudent">
+    <Position X="11.75" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ListaStudenata.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EvaluacijaOcena.XMLDeserialize&lt;T&gt;">
+    <Position X="8.5" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAABAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>XMLDeserialize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EvaluacijaOcena.IXMLDeserializable">
+    <Position X="8.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IXMLDeserializable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

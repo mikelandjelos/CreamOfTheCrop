@@ -1,0 +1,113 @@
+[
+  {
+    "Indeks": 1234,
+    "Predmet": "OO Projektovanje",
+    "Usmeni": 31,
+    "Elementi": [
+      {
+        "Naziv": "Pismeni",
+        "Poeni": 26
+      },
+      {
+        "Naziv": "Lab",
+        "Poeni": 16
+      }
+    ]
+  },
+  {
+    "Indeks": 2345,
+    "Predmet": "Geodezija",
+    "Usmeni": 29,
+    "Elementi": [
+      {
+        "Naziv": "Projekat a",
+        "Poeni": 7
+      },
+      {
+        "Naziv": "Projekat b",
+        "Poeni": 8
+      },
+      {
+        "Naziv": "Lab",
+        "Poeni": 11
+      },
+      {
+        "Naziv": "Terenski zadatak",
+        "Poeni": 17
+      }
+    ]
+  },
+  {
+    "Indeks": 34567,
+    "Predmet": "Istorija starog veka",
+    "Usmeni": 77,
+    "Elementi": [
+      {
+        "Naziv": "Istrazivanje",
+        "Poeni": 11
+      }
+    ]
+  },
+  {
+    "Indeks": 45678,
+    "Predmet": "Farmakologija",
+    "Usmeni": 20,
+    "Elementi": [
+      {
+        "Naziv": "Test A",
+        "Poeni": 11
+      },
+      {
+        "Naziv": "Test B",
+        "Poeni": 22
+      },
+      {
+        "Naziv": "Lab 1",
+        "Poeni": 0
+      },
+      {
+        "Naziv": "Lab 2",
+        "Poeni": 4
+      },
+      {
+        "Naziv": "Lab 3",
+        "Poeni": 7
+      }
+    ]
+  },
+  {
+    "Indeks": 56789,
+    "Predmet": "MMS",
+    "Usmeni": 40,
+    "Elementi": [
+      {
+        "Naziv": "SW projekat",
+        "Poeni": 30
+      },
+      {
+        "Naziv": "MM projekat",
+        "Poeni": 30
+      }
+    ]
+  },
+  {
+    "Indeks": 6789,
+    "Predmet": "Rimsko pravo",
+    "Usmeni": 99
+  },
+  {
+    "Indeks": 12312,
+    "Predmet": "Test Predmet Strategija C",
+    "Usmeni": 40,
+    "Elementi": [
+      {
+        "Naziv": "Pismeni",
+        "Poeni": 40
+      },
+      {
+        "Naziv": "Lab",
+        "Poeni": 10
+      }
+    ]
+  }
+]

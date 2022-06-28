@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPR", "OOPR\OOPR.csproj", "{430CAAE4-D366-41BC-A352-E8EA4803D1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPR.Services", "OOPR.Services\OOPR.Services.csproj", "{F2A39974-EABE-4E91-925E-4888E5526AD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430CAAE4-D366-41BC-A352-E8EA4803D1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430CAAE4-D366-41BC-A352-E8EA4803D1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430CAAE4-D366-41BC-A352-E8EA4803D1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430CAAE4-D366-41BC-A352-E8EA4803D1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A39974-EABE-4E91-925E-4888E5526AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A39974-EABE-4E91-925E-4888E5526AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A39974-EABE-4E91-925E-4888E5526AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A39974-EABE-4E91-925E-4888E5526AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E24C3F57-DFB5-4FE2-AA9F-C084B20B8514}
+	EndGlobalSection
+EndGlobal
