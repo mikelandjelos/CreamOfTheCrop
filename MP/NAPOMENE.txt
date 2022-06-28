@@ -1,0 +1,3 @@
+1. Dodat je root tag u xml fajlu sa ocenama (prilozeni su primeri na kojima je testiran program)
+2. Dugme za dodavanje strategije automatski menja strategiju svim aktuelnim predmetima na novu i ocene prikazuje u listbox-u.
+3. Paziti na razmake nakon navedenog naziva predmeta ili elemenata prilikom testiranja, jer u tom slucaju program ce Vas obavestiti da su podaci neispravni, a ova neispravnost se tesko uocava.

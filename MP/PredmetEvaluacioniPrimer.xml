@@ -1,0 +1,17 @@
+<Predmet>
+	<Strategija>A</Strategija>
+	<Naziv>OOP</Naziv>
+	<UsmeniMinPct>50</UsmeniMinPct>
+	<UsmeniMaxPoena>40</UsmeniMaxPoena>
+	<Elementi>
+		<Item>
+			<Name>Pismeni</Name>
+			<Min>20</Min>
+			<Max>40</Max>
+		</Item>
+		<Item>
+			<Name>Lab</Name>
+			<Max>20</Max>
+		</Item>
+	</Elementi>
+</Predmet>
